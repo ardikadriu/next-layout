@@ -1,4 +1,3 @@
-import React from "react";
 import SwiperComponents from "./SwiperComponent";
 
 const Heromob = () => {

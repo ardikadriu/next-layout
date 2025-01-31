@@ -1,5 +1,3 @@
-import React from "react";
-
 const Profile = () => {
   return (
     <header className="max-sm:text-center max-sm:py-10 max-sm:flex max-sm:flex-col flex w-full justify-around items-center py-5">
