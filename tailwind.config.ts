@@ -8,9 +8,9 @@ export default {
   ],
   theme: {
     extend: {
-      colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+      fontFamily: {
+        Playwrite: ["Playwrite IN", "serif"],
+        Dancin: ["Dancing Script", "serif"],
       },
     },
   },
